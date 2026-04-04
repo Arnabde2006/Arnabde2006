@@ -10,8 +10,11 @@ I am a passionate learner currently focused on mastering Data Structures and pro
 ### 🛠️ Languages & Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### 📈 GitHub Stats
+### 📈 GitHub Streak
 ![Arnab's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arnabde2006&theme=tokyonight)
+
+### 📈 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnabde2006&layout=compact&theme=tokyonight)
 <!--
 **Arnabde2006/Arnabde2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
