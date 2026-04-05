@@ -15,6 +15,9 @@ I am a passionate learner currently focused on mastering Data Structures and pro
 
 ### 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnabde2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=5)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-de2006)
+
 <!--
 **Arnabde2006/Arnabde2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
