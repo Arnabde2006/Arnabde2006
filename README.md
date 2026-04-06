@@ -14,8 +14,8 @@ I am a passionate learner currently focused on mastering Data Structures and pro
 ### 📈 GitHub Streak
 ![Arnab's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arnabde2006&theme=tokyonight)
 
-### 📊 Top Languages
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arnabde2006&theme=tokyonight)
+### 📊 Coding Activity
+![Arnab's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arnabde2006&layout=compact&theme=tokyonight&hide_border=true)
 <!--
 **Arnabde2006/Arnabde2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
