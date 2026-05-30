@@ -4,7 +4,7 @@
 I am a passionate learner currently focused on mastering Data Structures and professionalizing my coding workflow.
 
 - 🛠️ **Current Focus:** Applied Data Structures & Algorithms (C++), building production-grade backend pipelines, and writing robust error-isolated architectures.
-- 🔄 **Git Workflow:** Managing upstream synchronizations, cleaning up environment configurations (`package-lock.json`), and mastering professional PR workflows.
+- 🔄 **Git Workflow:** Managing upstream synchronizations, cleaning up environment configurations, and mastering professional PR workflows.
 - 🎓 **Education:** Pursuing Bachelor of Computer Applications (BCA).
 - 📍 **Location:** Kolkata, West Bengal, India.
 
