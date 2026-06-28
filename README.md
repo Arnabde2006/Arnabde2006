@@ -21,7 +21,6 @@ I'm a BCA student who likes building things that actually ship — clean backend
 - 🎓 Pursuing **BCA (Hons)** at IEM Kolkata — Class of 2028
 - 💼 Currently a **MERN Stack Intern** at UptoSkills, working across backend services and PR review
 - 🛠️ Focused on **Applied DSA in C++**, professional Git workflows, and error-isolated backend architecture
-- 🎬 Also run a YouTube channel where I auto-narrate novels using a custom TTS + DaVinci Resolve pipeline
 - 🏆 Compete in hackathons — most recently **PromptWars Virtual**
 
 ---
