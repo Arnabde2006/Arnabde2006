@@ -1,12 +1,12 @@
 <div align="center">
 
-# Arnab De
+# Hi, I'm Arnab De 👋
 
-### Software Developer in the making | MERN Stack & DSA Enthusiast
+### Software Developer in the making | MERN Stack & DSA enthusiast
 
-I'm a BCA student who likes building things that actually ship — clean backend pipelines, well-structured PRs, and the occasional satirical side project. Currently sharpening my Data Structures & Algorithms skills in C++ while shipping production code as an intern.
+I'm a BCA student who likes building things that actually ship — clean backend pipelines, well-structured PRs, and the occasional satirical side project. Currently sharpening my Data Structures & Algorithms game in C++ while shipping production code as an intern.
 
-Kolkata, West Bengal, India
+📍 Kolkata, West Bengal, India
 
 [
 
@@ -20,7 +20,7 @@ Kolkata, West Bengal, India
 ](mailto:arnabde085@gmail.com)
 [
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ](https://github.com/Arnabde2006)
 
@@ -28,17 +28,17 @@ Kolkata, West Bengal, India
 
 ---
 
-### About Me
+### 🧑‍🎓 About Me
 
-- Pursuing **BCA (Hons)** at IEM Kolkata — Class of 2028
-- Currently a **MERN Stack Intern** at UptoSkills, working across backend services and PR review
-- Focused on **Applied DSA in C++**, professional Git workflows, and error-isolated backend architecture
-- Run a YouTube channel auto-narrating novels using a custom TTS + DaVinci Resolve pipeline
-- Competitive hackathon participant — most recently **PromptWars Virtual**
+- 🎓 Pursuing **BCA (Hons)** at IEM Kolkata — Class of 2028
+- 💼 Currently a **MERN Stack Intern** at UptoSkills, working across backend services and PR review
+- 🛠️ Focused on **Applied DSA in C++**, professional Git workflows, and error-isolated backend architecture
+- 🎬 Also run a YouTube channel where I auto-narrate novels using a custom TTS + DaVinci Resolve pipeline
+- 🏆 Compete in hackathons — most recently **PromptWars Virtual**
 
 ---
 
-### Languages & Tools
+### 🛠️ Languages & Tools
 
 
 
@@ -82,7 +82,7 @@ Kolkata, West Bengal, India
 
 
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 
@@ -93,22 +93,22 @@ Kolkata, West Bengal, India
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
-**MatdataApp (मतदाता ऐप)**
-An Indian election education platform built for PromptWars Virtual, with a Gemini-powered chatbot, bilingual flashcards, and state-specific election data. Deployed on Google Cloud Run.
+#### 🗳️ MatdataApp (मतदाता ऐप)
+An Indian election education platform built for **PromptWars Virtual**, with a Gemini-powered chatbot, bilingual flashcards, and state-specific election data. Deployed on Google Cloud Run.
 
-**AI Mentor — Backend Contributions**
+#### 🤖 AI Mentor — Backend Contributions
 A React + Node/Express + PostgreSQL learning platform. Contributed fixes including a dashboard performance fix (233 API calls → ~25, load time 16.7s → ~1.5s) and an admin user search/filter/pagination system.
 
-**InternOps — Backend & PR Review**
+#### ⚙️ InternOps — Backend & PR Review
 A Fastify/Node.js/PostgreSQL/Redis internal tooling backend. Worked on audit logging systems, security fixes, RBAC features, and reviewed contributor PRs in a tech-lead-adjacent role.
 
-*Both of the above are part of an ongoing MERN Stack Internship at UptoSkills.*
+> 💼 Both of the above are part of my ongoing MERN Stack Internship at **UptoSkills**.
 
 ---
 
-### GitHub Stats
+### 📈 GitHub Stats
 
 <div align="center">
 
@@ -129,5 +129,5 @@ A Fastify/Node.js/PostgreSQL/Redis internal tooling backend. Worked on audit log
 ---
 
 <div align="center">
-<sub>Always building, always debugging.</sub>
+<sub>Always building, always debugging. 🚀</sub>
 </div>
