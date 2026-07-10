@@ -1,6 +1,10 @@
 <div align="center">
 
-# Hi, I'm Arnab De 👋
+<p align="center">
+  <a href="https://github.com/Arnabde2006">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=698&text=Hi%2C%20I'm%20Arnab%20De%20%F0%9F%91%8B" alt="Hi, I&#39;m Arnab De 👋" />
+  </a>
+</p>
 
 ### Software Developer in the making | MERN Stack & DSA enthusiast
 
@@ -55,16 +59,26 @@ A Fastify/Node.js/PostgreSQL/Redis internal tooling backend. Worked on audit log
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Arnabde2006&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Arnabde2006&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-![Arnab's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arnabde2006&theme=tokyonight)
+---
+### 📈 Contribution Graph
 
-![Arnab's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arnabde2006&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arnabde2006&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
-</div>
+---
+### 💭 Dev Quote
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 ---
 
 <div align="center">
